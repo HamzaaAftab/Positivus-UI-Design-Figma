@@ -10,9 +10,9 @@ const Contact = () => {
              Contact Us
         </h1>
 
-        <p className='hidden sm:block sm:text-sm md:tracking-wide text-center w-full md:text-left tracking-wider text-[12px]'>Connect with Us: Let's Discuss Your <br/> Digital Marketing Needs</p>
+        <p className='hidden sm:block sm:text-sm md:tracking-wide text-center w-full md:text-left tracking-wider text-[12px]'>Connect with Us: Lets Discuss Your <br/> Digital Marketing Needs</p>
 
-        <p className='block sm:hidden sm:text-sm md:tracking-wide text-center w-full md:text-left tracking-wider text-[12px]'>Connect with Us: Let's Discuss Your Digital Marketing Needs</p>
+        <p className='block sm:hidden sm:text-sm md:tracking-wide text-center w-full md:text-left tracking-wider text-[12px]'>Connect with Us: Lets Discuss Your Digital Marketing Needs</p>
       </div>
 
       {/* 2nd Div */}
